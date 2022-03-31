@@ -1,4 +1,4 @@
-This is a template DREU project site. You can start with this and modify it in any way you like, so long as it is still hosted in a git repository.
+This is a template DREAM project site. You can start with this and modify it in any way you like, so long as it is still hosted in a git repository.
 
 ## Quick Start
 
@@ -15,7 +15,7 @@ A copy of this repository will be made in your own github account.
 
 ### Step 3) Rename the repository
 
-In "myname/dreuprojecttemplate", click on "Settings" near the top right hand of the window. Change the repository name from "dreuprojecttemplate" to to "myname.github.io". ("myname" must match your GitHub user name exactly.)
+In "myname/dreamprojecttemplate", click on "Settings" near the top right hand of the window. Change the repository name from "dreamprojecttemplate" to to "myname.github.io". ("myname" must match your GitHub user name exactly.)
 
 Scroll down til you see "GitHub pages" and choose "Master" instead of "None".
 
