@@ -6,7 +6,7 @@
 name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Summer 2020 DREU Project
+description: DREAM Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -38,6 +38,8 @@ baseurl: ""
 #
 
 permalink: /:title/
+
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
