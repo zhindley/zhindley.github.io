@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: AI-based general visual inspection of aircraft
 ---
 
 * TOC
