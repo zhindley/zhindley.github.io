@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Zachery Hindley
+name: Your Name
 
 # Short bio or description (displayed in the header)
 description: The project is to detect defects in air craft using computer vision (CV). The intent is to allow the detection of defects utilizing a drone reducing man hours spent
