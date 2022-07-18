@@ -6,8 +6,7 @@
 name: Zach Hindley
 
 # Short bio or description (displayed in the header)
-description: The project is to detect defects in air craft using computer vision (CV). The intent is to allow the detection of defects utilizing a drone reducing man hours spent
-inspecting aircraft. The scope of the project is to gather a dataset which we will be used to optimize a CV algorithm.
+description: AI-based visual defect detection for aircraft
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
