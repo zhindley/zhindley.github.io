@@ -19,7 +19,7 @@ Aibin began his doctoral studies at the Department of Systems and Computer Netwo
 
 ## About My Project
 
-The project I am working on is the detection of defects in air craft using computer vision (CV). The intent is to allow a drone to visually detect defects reducing the use of man hours in aircraft inspections. The scope of the project is to gather a dataset and optimize a CV algorithm.
+The project I am working on is the detection of defects in air craft using computer vision (CV). The intent is to allow a drone to visually detect defects reducing the use of man hours in aircraft inspections. The scope of the project is to gather a dataset and optimize a CV algorithm. Our system will be based on single-shot multi-object detection techniques as there is the possibility of multiple occurences of defects in a single image and a need for fast processing. Emphasis will be on reducing false negative (missing defects) at the expense of false positives (incorrectly labeling as defective), this tradeoff will be controlled by an adjustable decision threshold.
 
 [My Final Report](files/finalreport.pdf)
 
