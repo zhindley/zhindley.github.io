@@ -8,7 +8,7 @@ title: AI-based general visual inspection of aircraft
 
 ## About Me
 
-My name is Zach Hindley and I am a student at the Roux Institute, a new campus of Northeastern University in Portland Maine. Currently I am working on a masters in computer science with a focus in Artificial Inteligence and Machine Learning, and plan to graduate May, 2023. I recieved my bachelor degrees from the University of Maine where I studied Mechanical Engineering and Mathematics. 
+My name is Zach Hindley and I am a student at the Roux Institute, a new campus of Northeastern University in Portland Maine. Currently I am working on a masters in computer science with a focus in Artificial Inteligence and Machine Learning planning to graduate May, 2023. I recieved my bachelor degrees from the University of Maine where I studied Mechanical Engineering and Mathematics. 
 
 ## About My Advisor
 
